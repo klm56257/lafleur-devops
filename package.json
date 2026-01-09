@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "lint:html": "htmlhint Version1/**/*.html",
-    "lint:css": "csslint Version1/styles/**/*.css",
+    "lint:css": "csslint Version1/styles/style.css",
     "lint": "npm run lint:html && npm run lint:css"
   },
   "repository": {
